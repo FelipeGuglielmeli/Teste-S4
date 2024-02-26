@@ -23,6 +23,8 @@
 
   Este comando instala a ORM que será usada para criar os modelos e acessar o banco de dados.
 
+  Para rodar o servidor basta executar o arquivo main.py e testar o CRUD.
+
   Por se tratar de um Micro Framework o Flask não tem um padrão de arquivos bem definido, então vai depender da arquitetura escolhida para o projeto.
   Neste projeto eu utilizei uma arquitetura bem simples por se tratar de um código de demonstração. 
   A base de dados utilizada é o SQLite por se tratar de um banco de dados de facil implementação, caso queiram testar com outro banco de dados basta trocar a variável de 
