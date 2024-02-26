@@ -4,8 +4,8 @@
   Para executa-lo em sua máquina basta clonar este repositório e instalar o Python (preferencialmente versão 3.12.0).
 
   Após abrir o projeto na sua IDE é recomendado criar um ambiente virtual na raiz do projeto para instalar as dependências.
-  O comando para criar o ambiente virtual é python -m venv .venv (sendo .venv a pasta do ambiente virtual)
-  Após criar o ambiente virtual ative-o com o comando: .venv\Scripts\activate
+  O comando para criar o ambiente virtual é python -m venv .venv (sendo .venv a pasta do ambiente virtual).
+  Após criar o ambiente virtual ative-o com o comando: 
   ```bash
   .venv\Scripts\activate
   ```
