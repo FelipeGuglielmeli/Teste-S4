@@ -1,5 +1,7 @@
 <h1>Teste S4 com Flask e SQLAlchemy</h1>
 
+  Fiz um vídeo rapido (sem edição e sem roteiro) mostrando como configurar e rodar a aplicação: https://www.youtube.com/watch?v=nYSDchlZDKw&ab_channel=FELIPECARVALHOGUGLIELMELI
+
   Este código foi feito usando a versão 3.0.2 do Flask e 3.12.0 do Python.
   Para executa-lo em sua máquina basta clonar este repositório e instalar o Python (preferencialmente versão 3.12.0).
 
